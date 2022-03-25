@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108613672322",
+    "project_id": "speechify-1f656",
+    "storage_bucket": "speechify-1f656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108613672322:android:bc601b70e43e7af7d9439b",
+        "android_client_info": {
+          "package_name": "com.example.speechify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108613672322-vae4jm8s1huhgvpmkoir8a27vo01s9fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSshZLv_-VQQYu8pY_tdcRZ5ElK_-_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108613672322-vae4jm8s1huhgvpmkoir8a27vo01s9fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
