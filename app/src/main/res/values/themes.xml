@@ -22,4 +22,10 @@
         <item name="colorAccent">@color/white</item>
         <item name="android:singleLine">true</item>
     </style>
+
+    <style name="SplashTheme" parent ="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_launcher</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:statusBarColor">@color/light_green</item>
+    </style>
 </resources>
