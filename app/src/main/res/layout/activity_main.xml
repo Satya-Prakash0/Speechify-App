@@ -28,14 +28,15 @@
         android:layout_marginTop="20dp"
         >
 
-<Spinner
-    android:layout_width="0dp"
-    android:layout_height="wrap_content"
-    android:layout_weight="1"
-    android:id="@+id/idFromSpinner"
-    android:gravity="center"
-    android:padding="3dp"
-    android:layout_margin="3dp"/>
+        <TextView
+            android:id="@+id/detected_language"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:text="Detected Language" />
+
+
 
         <ImageView
             android:id="@+id/imageView"
