@@ -5,3 +5,8 @@ An android app that can detect  the multiple regional language and convert into 
 <img src="https://user-images.githubusercontent.com/83579946/160110505-0ef1ab20-85a9-44e2-bdd5-9ac5d85f5bfb.jpeg" height="600" />
 <img src="https://user-images.githubusercontent.com/83579946/160110544-d5e05fcf-03e3-4959-bdaa-4967436c6baf.jpeg" height="600"/>
 </div>
+<hr>
+<div>
+<b>Specify App:</b><a href="https://drive.google.com/file/d/1dk2bJYKG8b-sgGMLf2hX4S2YByB0hyA5/view">Download App</a>
+</div>
+
