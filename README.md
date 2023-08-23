@@ -4,9 +4,9 @@ Welcome to Speechify, an innovative Android app designed to break down language 
 
 
 <div>
-  <img src="https://github.com/Satya-Prakash0/Speechify-App/assets/83579946/48e3bd2a-81da-4597-a197-724e2538dfb7" height="600" />
-<img src="https://user-images.githubusercontent.com/83579946/160110505-0ef1ab20-85a9-44e2-bdd5-9ac5d85f5bfb.jpeg" height="600" />
-<img src="https://user-images.githubusercontent.com/83579946/160110544-d5e05fcf-03e3-4959-bdaa-4967436c6baf.jpeg" height="600"/>
+  <img src="https://github.com/Satya-Prakash0/Speechify-App/assets/83579946/48e3bd2a-81da-4597-a197-724e2538dfb7" height="400" />
+<img src="https://user-images.githubusercontent.com/83579946/160110505-0ef1ab20-85a9-44e2-bdd5-9ac5d85f5bfb.jpeg" height="400" />
+<img src="https://user-images.githubusercontent.com/83579946/160110544-d5e05fcf-03e3-4959-bdaa-4967436c6baf.jpeg" height="400"/>
 </div>
 
   # Download
